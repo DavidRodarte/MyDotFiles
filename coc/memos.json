@@ -1,0 +1,1255 @@
+{
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/usr/local/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "692466b51bcb7c12c66c5d33105fd3e713bf34ea1fedf1f955ac414de7cd59eff9dde6f90ea8230c4449d01536bbdadbfd2ae3601c69f4512a742a2956eaf96a"
+      },
+      "expiry": 1644276120841
+    },
+    "/usr/local/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "8f2921642bf36be0d09dd55cc43a35ec7f8bf119007f3a69a94b823df1092093649d2a777a0aecdcc060133dfcc918c08a2162963c680758ea718ad985f92de0"
+      },
+      "expiry": 1644276120860
+    },
+    "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv",
+        "fileHash": "47ee336e864b81fd3481f65cf93f48326ec0104358bb2274db76e7cc3ed69ef6f4de19250c5a407dc2ffb3faba7c6fb59ce51139008e09a290d966a75cf72683"
+      },
+      "expiry": 1644276120859
+    },
+    "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv",
+        "fileHash": "fe4692c35304829b18f628833ed968525e508c5afb531514ac5104e324ef2e1a5c7b616d7966b6397b856b409d1bd2ce27a8cc320ae8d8ffd489d4543197ad53"
+      },
+      "expiry": 1644276120859
+    },
+    "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv",
+        "fileHash": "adbfce9b84d4bd0b1de2489caaea435c0589dd1f8034325baf20a657224960d27a85e1802972060f35dd97da667ce1215678199e34e5d8c301aa52b7a3110c96"
+      },
+      "expiry": 1644276120860
+    },
+    "InterpreterAutoSeletionRule-environment": {
+      "architecture": 3,
+      "path": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.10-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 10,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.10-final"
+      },
+      "sysPrefix": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv",
+      "fileHash": "fe4692c35304829b18f628833ed968525e508c5afb531514ac5104e324ef2e1a5c7b616d7966b6397b856b409d1bd2ce27a8cc320ae8d8ffd489d4543197ad53",
+      "type": "VirtualEnv"
+    },
+    "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "fe4692c35304829b18f628833ed968525e508c5afb531514ac5104e324ef2e1a5c7b616d7966b6397b856b409d1bd2ce27a8cc320ae8d8ffd489d4543197ad53"
+      },
+      "expiry": 1644276120842
+    },
+    "/usr/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3"
+      },
+      "expiry": 1644276120857
+    },
+    "/usr/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3"
+      },
+      "expiry": 1644276120862
+    },
+    "/usr/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3"
+      },
+      "expiry": 1644276120863
+    },
+    "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.10 64-bit ('fastapienv': venv)",
+        "hash": "fe4692c35304829b18f628833ed968525e508c5afb531514ac5104e324ef2e1a5c7b616d7966b6397b856b409d1bd2ce27a8cc320ae8d8ffd489d4543197ad53-bb97052405e581de924335a410c9a0e0"
+      },
+      "expiry": 1644276120867
+    },
+    "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3"
+      },
+      "expiry": 1644276120881
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv",
+        "fileHash": "fe4692c35304829b18f628833ed968525e508c5afb531514ac5104e324ef2e1a5c7b616d7966b6397b856b409d1bd2ce27a8cc320ae8d8ffd489d4543197ad53",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv",
+        "fileHash": "adbfce9b84d4bd0b1de2489caaea435c0589dd1f8034325baf20a657224960d27a85e1802972060f35dd97da667ce1215678199e34e5d8c301aa52b7a3110c96",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv",
+        "fileHash": "fe4692c35304829b18f628833ed968525e508c5afb531514ac5104e324ef2e1a5c7b616d7966b6397b856b409d1bd2ce27a8cc320ae8d8ffd489d4543197ad53",
+        "type": "Unknown"
+      }
+    ],
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.10-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 10,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.10-final"
+      },
+      "sysPrefix": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv",
+      "fileHash": "fe4692c35304829b18f628833ed968525e508c5afb531514ac5104e324ef2e1a5c7b616d7966b6397b856b409d1bd2ce27a8cc320ae8d8ffd489d4543197ad53",
+      "type": "Unknown"
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.2-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.2-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3"
+      },
+      "expiry": 1644276121066
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv",
+        "fileHash": "adbfce9b84d4bd0b1de2489caaea435c0589dd1f8034325baf20a657224960d27a85e1802972060f35dd97da667ce1215678199e34e5d8c301aa52b7a3110c96",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv",
+        "fileHash": "fe4692c35304829b18f628833ed968525e508c5afb531514ac5104e324ef2e1a5c7b616d7966b6397b856b409d1bd2ce27a8cc320ae8d8ffd489d4543197ad53",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv",
+        "fileHash": "47ee336e864b81fd3481f65cf93f48326ec0104358bb2274db76e7cc3ed69ef6f4de19250c5a407dc2ffb3faba7c6fb59ce51139008e09a290d966a75cf72683",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "8f2921642bf36be0d09dd55cc43a35ec7f8bf119007f3a69a94b823df1092093649d2a777a0aecdcc060133dfcc918c08a2162963c680758ea718ad985f92de0",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "692466b51bcb7c12c66c5d33105fd3e713bf34ea1fedf1f955ac414de7cd59eff9dde6f90ea8230c4449d01536bbdadbfd2ae3601c69f4512a742a2956eaf96a",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.2-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.2-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "8f2921642bf36be0d09dd55cc43a35ec7f8bf119007f3a69a94b823df1092093649d2a777a0aecdcc060133dfcc918c08a2162963c680758ea718ad985f92de0",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "692466b51bcb7c12c66c5d33105fd3e713bf34ea1fedf1f955ac414de7cd59eff9dde6f90ea8230c4449d01536bbdadbfd2ae3601c69f4512a742a2956eaf96a",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.2-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.2-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3",
+        "type": "Unknown"
+      }
+    ],
+    "PipEnvInformation": [],
+    "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.10 64-bit ('fastapienv': venv)",
+        "hash": "adbfce9b84d4bd0b1de2489caaea435c0589dd1f8034325baf20a657224960d27a85e1802972060f35dd97da667ce1215678199e34e5d8c301aa52b7a3110c96-2326324b21ce041fd98130c8a4939a1e"
+      },
+      "expiry": 1644276121088
+    },
+    "/usr/local/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.10 64-bit",
+        "hash": "8f2921642bf36be0d09dd55cc43a35ec7f8bf119007f3a69a94b823df1092093649d2a777a0aecdcc060133dfcc918c08a2162963c680758ea718ad985f92de0-63b2053a8d14238ec19e0fdfa76faf0a"
+      },
+      "expiry": 1644276121090
+    },
+    "/usr/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.18 64-bit",
+        "hash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3-976965d35c19a3034482f95b18465231"
+      },
+      "expiry": 1644276121091
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.2 64-bit",
+        "hash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3-9bf88083b7162ff4578140f3102d4572"
+      },
+      "expiry": 1644276121092
+    },
+    "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.18 64-bit",
+        "hash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3-e06513aba656d6c3fba805f5b0864fd5"
+      },
+      "expiry": 1644276121093
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.10-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 10,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.10-final"
+      },
+      "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "8f2921642bf36be0d09dd55cc43a35ec7f8bf119007f3a69a94b823df1092093649d2a777a0aecdcc060133dfcc918c08a2162963c680758ea718ad985f92de0",
+      "type": "Unknown",
+      "displayName": "Python 3.9.10 64-bit"
+    },
+    "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "adbfce9b84d4bd0b1de2489caaea435c0589dd1f8034325baf20a657224960d27a85e1802972060f35dd97da667ce1215678199e34e5d8c301aa52b7a3110c96",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.10-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 10,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.10-final"
+          },
+          "sysPrefix": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv",
+          "fileHash": "adbfce9b84d4bd0b1de2489caaea435c0589dd1f8034325baf20a657224960d27a85e1802972060f35dd97da667ce1215678199e34e5d8c301aa52b7a3110c96",
+          "envName": "fastapienv",
+          "type": "Venv",
+          "displayName": "Python 3.9.10 64-bit ('fastapienv': venv)"
+        }
+      },
+      "expiry": 1644276121110
+    },
+    "/usr/local/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "8f2921642bf36be0d09dd55cc43a35ec7f8bf119007f3a69a94b823df1092093649d2a777a0aecdcc060133dfcc918c08a2162963c680758ea718ad985f92de0",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.10-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 10,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.10-final"
+          },
+          "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+          "fileHash": "8f2921642bf36be0d09dd55cc43a35ec7f8bf119007f3a69a94b823df1092093649d2a777a0aecdcc060133dfcc918c08a2162963c680758ea718ad985f92de0",
+          "type": "Unknown",
+          "displayName": "Python 3.9.10 64-bit"
+        }
+      },
+      "expiry": 1644276121113
+    },
+    "/usr/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.18-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.18-final"
+          },
+          "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3",
+          "type": "Unknown",
+          "displayName": "Python 2.7.18 64-bit"
+        }
+      },
+      "expiry": 1644276121115
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.2-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.2-final"
+          },
+          "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+          "fileHash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3",
+          "type": "Unknown",
+          "displayName": "Python 3.8.2 64-bit"
+        }
+      },
+      "expiry": 1644276121117
+    },
+    "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3",
+        "info": {
+          "architecture": 3,
+          "path": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.18-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.18-final"
+          },
+          "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "48d591c27e2a82e3f9099cbccc1c491ccb6c6daf080514372377d99c32f6b886b0261a22dd218027ea694b6fd767c8c073e72a31736caf4ccb3b2c634a8b16c3",
+          "type": "Unknown",
+          "displayName": "Python 2.7.18 64-bit"
+        }
+      },
+      "expiry": 1644276121119
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.10-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 10,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.10-final"
+      },
+      "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "8f2921642bf36be0d09dd55cc43a35ec7f8bf119007f3a69a94b823df1092093649d2a777a0aecdcc060133dfcc918c08a2162963c680758ea718ad985f92de0",
+      "type": "Unknown",
+      "displayName": "Python 3.9.10 64-bit"
+    },
+    "ProposeLSBanner": false,
+    "InterpreterAutoSeletionRule-workspaceEnvs": {
+      "architecture": 3,
+      "path": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.10-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 10,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.10-final"
+      },
+      "sysPrefix": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv",
+      "fileHash": "47ee336e864b81fd3481f65cf93f48326ec0104358bb2274db76e7cc3ed69ef6f4de19250c5a407dc2ffb3faba7c6fb59ce51139008e09a290d966a75cf72683",
+      "envName": "fastapienv",
+      "type": "Venv"
+    },
+    "/usr/local/opt/python@3.9/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/opt/python@3.9/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "c3878714a5cc0fb628273ed98c8a63699ed23273648c4dc34488f3b302b339ca47bb850b6d45eeb26fb074231a92078f29318babeccb996779908bd8ce817048"
+      },
+      "expiry": 1644276469759
+    },
+    "/usr/local/opt/python@3.9/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.10 64-bit",
+        "hash": "c3878714a5cc0fb628273ed98c8a63699ed23273648c4dc34488f3b302b339ca47bb850b6d45eeb26fb074231a92078f29318babeccb996779908bd8ce817048-91efe19b0892743278225c9b2167deb0"
+      },
+      "expiry": 1644276470746
+    },
+    "/usr/local/opt/python@3.9/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "c3878714a5cc0fb628273ed98c8a63699ed23273648c4dc34488f3b302b339ca47bb850b6d45eeb26fb074231a92078f29318babeccb996779908bd8ce817048",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/opt/python@3.9/bin/python3.9",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.10-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 10,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.10-final"
+          },
+          "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+          "fileHash": "c3878714a5cc0fb628273ed98c8a63699ed23273648c4dc34488f3b302b339ca47bb850b6d45eeb26fb074231a92078f29318babeccb996779908bd8ce817048",
+          "type": "Unknown",
+          "displayName": "Python 3.9.10 64-bit"
+        }
+      },
+      "expiry": 1644276470752
+    }
+  },
+  "coc-python|/Users/davidrodarte/Proyectos/FastAPI": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:ea9f9effb2b270947216ad0878975ba7": [],
+    "SelectedPythonPath": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python3",
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:ea9f9effb2b270947216ad0878975ba7": [
+      {
+        "architecture": 3,
+        "path": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv",
+        "fileHash": "adbfce9b84d4bd0b1de2489caaea435c0589dd1f8034325baf20a657224960d27a85e1802972060f35dd97da667ce1215678199e34e5d8c301aa52b7a3110c96",
+        "envName": "fastapienv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv",
+        "fileHash": "fe4692c35304829b18f628833ed968525e508c5afb531514ac5104e324ef2e1a5c7b616d7966b6397b856b409d1bd2ce27a8cc320ae8d8ffd489d4543197ad53",
+        "envName": "fastapienv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv",
+        "fileHash": "47ee336e864b81fd3481f65cf93f48326ec0104358bb2274db76e7cc3ed69ef6f4de19250c5a407dc2ffb3faba7c6fb59ce51139008e09a290d966a75cf72683",
+        "envName": "fastapienv",
+        "type": "Venv"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/Users/davidrodarte/Proyectos/FastAPI": {
+      "architecture": 3,
+      "path": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.10-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 10,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.10-final"
+      },
+      "sysPrefix": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv",
+      "fileHash": "fe4692c35304829b18f628833ed968525e508c5afb531514ac5104e324ef2e1a5c7b616d7966b6397b856b409d1bd2ce27a8cc320ae8d8ffd489d4543197ad53",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv",
+        "fileHash": "adbfce9b84d4bd0b1de2489caaea435c0589dd1f8034325baf20a657224960d27a85e1802972060f35dd97da667ce1215678199e34e5d8c301aa52b7a3110c96",
+        "envName": "fastapienv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv",
+        "fileHash": "fe4692c35304829b18f628833ed968525e508c5afb531514ac5104e324ef2e1a5c7b616d7966b6397b856b409d1bd2ce27a8cc320ae8d8ffd489d4543197ad53",
+        "envName": "fastapienv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.10-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.10-final"
+        },
+        "sysPrefix": "/Users/davidrodarte/Proyectos/FastAPI/fastapienv",
+        "fileHash": "47ee336e864b81fd3481f65cf93f48326ec0104358bb2274db76e7cc3ed69ef6f4de19250c5a407dc2ffb3faba7c6fb59ce51139008e09a290d966a75cf72683",
+        "envName": "fastapienv",
+        "type": "Venv"
+      }
+    ]
+  }
+}
