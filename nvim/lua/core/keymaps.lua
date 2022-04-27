@@ -56,7 +56,7 @@ map('n', '<leader>r', ':NvimTreeRefresh<CR>')       -- refresh
 map('n', '<leader>n', ':NvimTreeFindFile<CR>')      -- search file
 
 -- Symbols outline
-map('n', '<C-m>', ':SymbolsOutline<CR>') -- open/close
+map('n', '<leader>m', ':SymbolsOutline<CR>') -- open/close
 
 -- Formatter
 map('n', '<leader>f', ':Format<CR>')
