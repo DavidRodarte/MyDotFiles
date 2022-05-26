@@ -50,14 +50,14 @@ lspconfig.tsserver.setup({
     end,
 })
 
-null_ls.setup({
+--[[ null_ls.setup({
     sources = {
         null_ls.builtins.diagnostics.eslint_d,
         null_ls.builtins.code_actions.eslint_d,
         null_ls.builtins.formatting.prettier,
     },
     on_attach = on_attach,
-})
+}) ]]
 
 lspconfig.intelephense.setup({
   capabilities = capabilities
@@ -70,3 +70,15 @@ lspconfig.emmet_ls.setup({
 })
 
 lspconfig.prismals.setup{}
+
+local project_library_path = "/path/to/project/lib"
+local cmd = {"ngserver", "--stdio", "--tsProbeLocations", project_library_path , "--ngProbeLocations", project_library_path}
+
+require'lspconfig'.angularls.setup{
+  cmd = cmd,
+  on_new_config = function(new_config,new_root_dir)
+    new_config.cmd = cmd
+  end,
+ on_attach = on_attach,
+ capabilities = capabilities,
+}

@@ -123,12 +123,6 @@ return packer.startup(function()
   -- Prisma syntax
   use 'pantharshit00/vim-prisma'
 
-  -- PHPactor
-  use {
-    'phpactor/phpactor',
-    run = 'composer install --no-dev -o'
-  }
-
   -- Symbols outline
   use 'simrat39/symbols-outline.nvim'
 end)

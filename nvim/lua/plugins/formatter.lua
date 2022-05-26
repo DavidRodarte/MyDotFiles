@@ -21,6 +21,15 @@ require('formatter').setup({
           }
         end
     },
+    php = {
+       function()
+          return {
+            exe = "prettier",
+            args = {vim.api.nvim_buf_get_name(0)},
+            stdin = true
+          }
+        end
+    },
     dart = {
        function()
           return {

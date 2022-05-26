@@ -48,5 +48,16 @@ require('nvim-tree').setup {
     custom = { '.git', 'node_modules', '.cache', '.bin' },
     exclude = { '.env', '.env.development.local', '.dockerignore', '.gitignore'}
   },
+  diagnostics = {
+      enable = true,
+      show_on_dirs = true,
+      icons = {
+        hint = " ",
+        info = " ",
+        warning = " ",
+        error = " ",
+      },
+    },
   view = { width = 32 },
 }
+
