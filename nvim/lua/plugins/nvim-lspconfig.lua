@@ -60,7 +60,8 @@ lspconfig.tsserver.setup({
 }) ]]
 
 lspconfig.intelephense.setup({
-  capabilities = capabilities
+  capabilities = capabilities,
+  on_attach = on_attach
 })
 
 lspconfig.emmet_ls.setup({

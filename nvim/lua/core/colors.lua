@@ -6,10 +6,18 @@
 --require('monokai').setup {}
 
 -- OneDark styles: dark, darker, cool, deep, warm, warmer, light
-require('onedark').setup {
+
+--[[ require('onedark').setup {
   style = 'cool',
 }
-require('onedark').load()
+require('onedark').load() ]]
+
+require('catppuccin').setup {
+  style = 'mocha'
+}
+
+require('catppuccin').load()
+
 
 -- Import color scheme with:
 --- require('colors').colorscheme_name

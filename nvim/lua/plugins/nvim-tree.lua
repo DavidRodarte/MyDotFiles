@@ -30,18 +30,12 @@ g.nvim_tree_icons = {
 }
 
 require('nvim-tree').setup {
-  open_on_setup = true,
-  update_cwd = true,
   actions = {
     open_file = {
-      resize_window = false,
+      resize_window = true,
       quit_on_open = false,
       window_picker = { enable = false },
     },
-  },
-  system_open = {
-    cmd  = nil,
-    args = {}
   },
   filters = {
     dotfiles = false,
@@ -59,5 +53,11 @@ require('nvim-tree').setup {
       },
     },
   view = { width = 32 },
+  renderer = {
+    indent_markers = {
+      enable = true
+    }
+  },
+  reload_on_bufenter = true
 }
 

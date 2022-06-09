@@ -58,6 +58,8 @@ return packer.startup(function()
 
   use { 'rose-pine/neovim', as = 'rose-pine' }
 
+  use {'catppuccin/nvim', as = 'catppuccin' }
+
   -- LSP
   use 'neovim/nvim-lspconfig'
   use "jose-elias-alvarez/null-ls.nvim"
@@ -72,6 +74,7 @@ return packer.startup(function()
       'hrsh7th/cmp-path',
       'hrsh7th/cmp-buffer',
       'saadparwaiz1/cmp_luasnip',
+      'rafamadriz/friendly-snippets'
     },
   }
 
@@ -125,4 +128,10 @@ return packer.startup(function()
 
   -- Symbols outline
   use 'simrat39/symbols-outline.nvim'
+
+  -- Multicursor
+  use 'mg979/vim-visual-multi'
+
+  -- Copilot
+  use 'github/copilot.vim'
 end)
